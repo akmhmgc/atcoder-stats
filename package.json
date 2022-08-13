@@ -19,8 +19,8 @@
     "@types/d3": "^7.4.0",
     "axios": "^0.27.2",
     "d3": "^6.3.1",
-    "d3node-linechart": "^0.1.2",
     "dayjs": "^1.11.4",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "d3node-linechart": "git+https://github.com/akmhmgc/d3node-linechart.git#at-coder-graph"
   }
 }

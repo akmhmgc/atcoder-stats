@@ -1,5 +1,5 @@
 import { timeParse } from 'd3';
-import { scores } from '../fetchers/history';
+import { scores } from './history';
 import dayjs from 'dayjs';
 const d3nLine = require('d3node-linechart');
 

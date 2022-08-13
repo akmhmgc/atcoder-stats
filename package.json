@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx tsc",
     "start": "npm run build && vercel dev",
-    "dev": "nodemon --watch src --ext ts,json --exec 'npm start'"
+    "vdev": "nodemon --watch src --ext ts,json --exec 'npm start'"
   },
   "keywords": [],
   "author": "",

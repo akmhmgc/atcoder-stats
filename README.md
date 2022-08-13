@@ -1,4 +1,5 @@
 <p align="center">
+ <img align="center" width="400px" src="https://user-images.githubusercontent.com/38002468/184499654-de5bc8b7-2e6b-4b80-b5ad-306680ed2e2e.png"/>
  <h2 align="center">AtCoder Stats </h2>
  <p align="center">Get dynamically generated AtCoder stats on your READMEs!</p>
 </p>

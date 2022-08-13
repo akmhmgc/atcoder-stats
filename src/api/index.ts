@@ -19,7 +19,7 @@ export default async (req: any, res: any) => {
   }
   )
 
-  const line = d3nLine({ data: data, isCurve: false, margin: { top: 20, right: 20, bottom: 60, left: 50 }, });
+  const line = d3nLine({ data: data, username: username });
 
   return res.send(line.svgString());
 }
